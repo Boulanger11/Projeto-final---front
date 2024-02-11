@@ -46,17 +46,17 @@ Os principais recursos do projeto Labeddit incluem:
 
 [Labeddit](https://integrador-frontend.vercel.app/)
 
-[Repositorio Back-end](https://github.com/miguelbitz/integrador-backend)
+[Repositorio Back-end](https://github.com/Boulanger11/Projeto---Final-back.git)
 
 ## Documentação do Postman
 
-[Link da API no POSTMAN](https://documenter.getpostman.com/view/26594213/2s9YJgTLMV)
+[Link da API no POSTMAN]
 
 ## 👤 Criado por:
 
 ### Leonardo Boulanger
 
-[Linkedin](https://www.linkedin.com/in/leonardo.boulanger/)
+[Linkedin](https://www.linkedin.com/in/leonardo-boulanger-465456181/)
 
 ## Colaboração
 
