@@ -44,7 +44,7 @@ Os principais recursos do projeto Labeddit incluem:
 
 ## O projeto está hospedado na Vercel. Acesse a implantação através do link:
 
-[Labeddit](https://integrador-frontend.vercel.app/)
+[Labeddit](https://projeto-final-9lei43s9z-leonardo-boulangers-projects.vercel.app/)
 
 [Repositorio Back-end](https://github.com/Boulanger11/Projeto---Final-back.git)
 
